@@ -15,7 +15,7 @@
 - 🔭 I am currently contributing to Open Source, building a 9x9 TicTacToe Game on Django, writing Tech Blogs on <a href = "https://codingwithdev.xyz/">my Website</a> and <a href = "https://medium.com/@devansuyadav">Medium</a>  
 - 👀 Things I know: <i> Python, C, C++, Basic Front-End, Nodejs, Git/Github, AWS </i> 
 - 👐 I'm looking for: A team for Hackathons 
-- 😍 I ❤️ reading Astronomy Books, 💫Star-gazing, watching Football⚽
+- 😍 I ❤️ <i>reading Astronomy Books, 💫Star-gazing, watching Football⚽</i>
 - 😄 Pronouns: He/Him 
 - 🌙 Fun fact: NASA's Perseverance Rover carries my name😁(👽 could know about me🤣)   
 <br><br>
@@ -24,12 +24,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/devansu-yadav/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="40" /></a>&nbsp
+<a href="https://www.linkedin.com/in/devansu-yadav/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="30" /></a>&nbsp
   <a href="https://twitter.com/DevanshYtweets">
-    <img src="img/twitter.png" alt="Twitter" width="40" height="30"/>
+    <img src="img/twitter.png" alt="Twitter" width="30" height="30"/>
   </a>&nbsp
-<a href="https://www.facebook.com/devansu.yadav.5" target="blank"><img align="center" src="img/facebook.png" alt="devansu.yadav.5" height="30" width="40" /></a>&nbsp
-<a href="https://www.instagram.com/_devansh_609/" target="blank"><img align="center" src="img/instagram.png" alt="_devansh_609" height="30" width="40" /></a>
+<a href="https://www.facebook.com/devansu.yadav.5" target="blank"><img align="center" src="img/facebook.png" alt="devansu.yadav.5" height="30" width="30" /></a>&nbsp
+<a href="https://www.instagram.com/_devansh_609/" target="blank"><img align="center" src="img/instagram.png" alt="_devansh_609" height="30" width="30" /></a>
 
 </p>
 
