@@ -45,4 +45,9 @@
 
 <p align="left"> <img src="https://github-readme-stats-abserari.vercel.app/api?username=Devansu-Yadav&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" alt="Devansu-Yadav" /> </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Devansu-Yadav/count.svg" />
+ </p>
+
 <h4 align="center">Show some ❤️ by starring ⭐ some of the repositories!</h4>
