@@ -12,7 +12,7 @@
 - 📫 How to reach me **devansuyadav@gmail.com** or Dm me on **Twitter: https://twitter.com/DevanshYtweets**
 
 
-- 🔭 I am currently contributing to Open Source, building a 9x9 TicTacToe Game on Django, writing Tech Blogs on <a href = "https://codingwithdev.xyz/">my Website</a> and <a href = "https://medium.com/@devansuyadav">Medium</a>  
+- 🔭 I am currently contributing to Open Source, building a 9x9 TicTacToe Game on Django, writing Tech Blogs on <a href = "https://medium.com/@devansuyadav">Medium</a>  
 - 👀 Things I know: <i> Python, C, C++, Basic Front-End, Nodejs, Git/Github, AWS </i> 
 - 👐 I'm looking for: A team for Hackathons 
 - 😍 I ❤️ <i>reading Astronomy Books, 💫Star-gazing, watching Football⚽</i>
