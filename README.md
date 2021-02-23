@@ -1,4 +1,4 @@
-
+<img src="img/MSFTStudentambassadors.gif" width="900" height="300"/>
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Devansu Yadav</h1>
 <h3 align="center">I am a Python Programmer(I ❤️ Python)</h3>
@@ -7,12 +7,14 @@
 
 ## 🧐 About
 
+- 🌱 I am an **Alpha Microsoft Learn Student Ambassador**😊
+
 - 🌱 I’m currently learning **Java and its frameworks, Django(Python)**
 
 - 📫 How to reach me **devansuyadav@gmail.com** or Dm me on **Twitter: https://twitter.com/DevanshYtweets**
 
 
-- 🔭 I am currently contributing to Open Source, building a 9x9 TicTacToe Game on Django, writing Tech Blogs on <a href = "https://codingwithdev.xyz/">my Website</a> and <a href = "https://medium.com/@devansuyadav">Medium</a>  
+- 🔭 I am currently contributing to Open Source, building a 9x9 TicTacToe Game on Django, writing Tech Blogs on <a href = "https://medium.com/@devansuyadav">Medium</a> and learning <a href="https://azure.microsoft.com/en-in/">Azure</a>  
 - 👀 Things I know: <i> Python, C, C++, Basic Front-End, Nodejs, Git/Github, AWS </i> 
 - 👐 I'm looking for: A team for Hackathons 
 - 😍 I ❤️ <i>reading Astronomy Books, 💫Star-gazing, watching Football⚽</i>
@@ -37,13 +39,14 @@
 
 <hr \>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://camo.githubusercontent.com/d5a2ac7b68c6a98d423f45b6cb48618e6bfe5f840b5029f6e8a7493a98206f69/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f632f632d6f726967696e616c2e737667" target="_blank"> <img src="https://camo.githubusercontent.com/d5a2ac7b68c6a98d423f45b6cb48618e6bfe5f840b5029f6e8a7493a98206f69/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f632f632d6f726967696e616c2e737667" alt="C" width="40" height="40"/> </a> <a href="https://camo.githubusercontent.com/a3899aef9000d4f828ccae202821882f0126510e5e2c3f00d3b6e48047998386/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" target="_blank"> <img src="https://camo.githubusercontent.com/a3899aef9000d4f828ccae202821882f0126510e5e2c3f00d3b6e48047998386/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="C++" width="40" height="40"/> </a> <a href="https://camo.githubusercontent.com/7e0df03b2e8620c74bf97f2b2ea4ffa40c5cd88163a24365b803580533f9a317/68747470733a2f2f64657669636f6e2e6465762f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" target="_blank"> <img src="https://camo.githubusercontent.com/7e0df03b2e8620c74bf97f2b2ea4ffa40c5cd88163a24365b803580533f9a317/68747470733a2f2f64657669636f6e2e6465762f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="Python" width="40" height="40"/> </a> <a href="https://camo.githubusercontent.com/cd50351649d3588596a450867cfa97a5000e795706aa083199b3e26d2c5213d1/68747470733a2f2f64657669636f6e2e6465762f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" target="_blank"> <img src="https://camo.githubusercontent.com/cd50351649d3588596a450867cfa97a5000e795706aa083199b3e26d2c5213d1/68747470733a2f2f64657669636f6e2e6465762f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="35" height="35"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="35" height="35"/> </a> <a href="https://github.com/github" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" width="35" height="35"/> </a> <a href="https://nodejs.org/en/" target="_blank"> <img src="img/nodejs.png" alt="Nodejs" width="35" height="35"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="30"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" height="30"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="30"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/>
+
 
 ### Languages I have worked with -
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://github-readme-stats-abserari.vercel.app/api?username=Devansu-Yadav&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" alt="Devansu-Yadav" /> </p>
+<p align="left"> <img src="[![Devansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)](https://github.com/Devansu-Yadav)" alt="Devansu-Yadav" /> </p>
 
 <p align="center"> 
   Visitor count<br>
