@@ -1,13 +1,12 @@
-<img src="img/MSFTStudentambassadors.gif" width="900" height="300"/>
+<img src="img/MSFTStudentambassadors.gif" width="900" height="400"/>
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Devansu Yadav</h1>
-<h3 align="center">I am a Python Programmer(I ❤️ Python)</h3>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<h2 align="center">I am a Python Programmer(I ❤️ Python)</h2>
+<h2 align="center">I am also an <b>Alpha Microsoft Learn Student Ambassador</b></h2>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
 
 
 ## 🧐 About
-
-- 🌱 I am an **Alpha Microsoft Learn Student Ambassador**😊
 
 - 🌱 I’m currently learning **Java and its frameworks, Django(Python)**
 
@@ -46,7 +45,7 @@
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="[![Devansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)](https://github.com/Devansu-Yadav)" alt="Devansu-Yadav" /> </p>
+<p align="left"> <img src="[![Devansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)" alt="Devansu-Yadav"/> </p>
 
 <p align="center"> 
   Visitor count<br>
