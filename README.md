@@ -24,7 +24,6 @@
 <hr \>
 
 ## Checkout my Portfolio <a href="https://devansu-yadav.github.io/">here</a>
-<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/devansu-yadav/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="30" /></a>&nbsp
