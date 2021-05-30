@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java and its frameworks, Django(Python)**
 
-- 📫 How to reach me **devansuyadav@gmail.com** or Dm me on **Twitter: https://twitter.com/DevanshYtweets**
+- 📫 How to reach me **devansuyadav@gmail.com** or Dm me on **<a href="https://twitter.com/DevanshYtweets">Twitter</a>**
 
 
 - 🔭 I am currently contributing to Open Source, building a 9x9 TicTacToe Game on Django, writing Tech Blogs on <a href = "https://medium.com/@devansuyadav">Medium</a> and learning <a href="https://azure.microsoft.com/en-in/">Azure</a>  
@@ -23,6 +23,8 @@
 
 <hr \>
 
+## Checkout my Portfolio <a href="https://devansu-yadav.github.io/">here</a>
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/devansu-yadav/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="30" /></a>&nbsp
