@@ -14,7 +14,7 @@
 - 📫 How to reach me **devansuyadav@gmail.com** or Dm me on **<a href="https://twitter.com/DevanshYtweets">Twitter</a>**
 
 - 🙌Active in Communities: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/101972)](https://studentambassadors.microsoft.com/en-US/profile/101972)
-- 🔭 I am currently contributing to [Checkstyle](https://github.com/checkstyle/checkstyle), building SATARK(coming soon😉), writing Tech Blogs on <a href = "https://medium.com/@devansuyadav">Medium</a> and exploring<a href="https://azure.microsoft.com/en-in/">Azure🚀</a>  
+- 🔭 I am currently contributing to [Checkstyle](https://github.com/checkstyle/checkstyle), building SATARK(coming soon😉), writing Tech Blogs on <a href = "https://medium.com/@devansuyadav">Medium</a> and exploring <a href="https://azure.microsoft.com/en-in/">Azure🚀</a>  
 - 👀 Things I know: <i> Java, Python, JS, Azure, C, C++, Front-End, Nodejs, Git, AWS </i>
 - 🎓 Certifications: <b>Microsoft Azure: AZ 900 Certified</b>✨ 
 - 👐 I'm looking to: grab opportunities✨🔥 
