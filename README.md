@@ -1,9 +1,9 @@
-<p align="center"><a href="https://devansuyadav.live/"><img width="80%" alt="About Devansu Yadav" src="img/banner.png" /></a></p>
+<p align="center"><a href="https://devansuyadav.live/"><img width="100%" alt="About Devansu Yadav" src="img/banner.png" /></a></p>
 
-<h2 align="center">Hey <img src="img/Hi.gif" width="29px" height="29px">, I am Devansu Yadav!&nbsp;<a href="https://twitter.com/DevanshYtweets" target="_blank" rel="noreferrer"><img
+<h1 align="left">Hey <img src="img/Hi.gif" width="29px" height="29px">, I am Devansu Yadav!&nbsp;<a href="https://twitter.com/DevanshYtweets" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DevanshYtweets?logo=twitter&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px"
 /></a><a href="https://github.com/Devansu-Yadav" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Devansu-Yadav?logo=github&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px" /></a></h2>
+src="https://img.shields.io/github/followers/Devansu-Yadav?logo=github&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px" /></a></h1>
 
 I'm Devansu, a junior year CS Engineering Undergrad from India. I love building Full-Stack applications and I absolutely 💙 contributing to Open Source projects. My recent major OSS contribution - [**Azure Static Web Apps CLI**](https://github.com/Azure/static-web-apps-cli/pull/453). I'm a passionate self-learner, who loves exploring Technologies and building projects👨‍💻 and is looking to solve real-world problems using the the power of Technology!⚡. I have worked previously as a Software Engineer Intern at [KonfHub Technologies](https://www.linkedin.com/company/konfhub/). 
 
@@ -39,7 +39,7 @@ Apart from Tech, I also love contributing to Student Tech communities, helping s
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" alt="Python" width="32" height="32" />
     <img src="https://img.icons8.com/ios-glyphs/30/undefined/github.png" alt="Github" width="32" height="32" />
     <img src="img/jest-icon.svg" alt="Jest" width="32" height="32" />
-    <img src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit" width="32" height="32" />
+    <img src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit" width="80" />
     <img src="img/Azure-Cosmos-DB.svg" alt="Azure Cosmos DB" width="32" height="32" />
     <img src="https://img.icons8.com/fluency/48/undefined/azure-1.png" alt="Azure" width="32" height="32" />
     <img src="https://img.icons8.com/color/48/undefined/amazon-web-services.png" alt="AWS" width="32" height="32" />
@@ -49,12 +49,13 @@ Apart from Tech, I also love contributing to Student Tech communities, helping s
 
 <p align="left">
     <a href="https://github.com/Devansu-Yadav">
-        <img src="https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&hide=&count_private=true&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true" width="420px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&hide=&count_private=true&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&show_icons=true&include_all_commits=true" />
     </a>
     <a href="https://github.com/Devansu-Yadav">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&layout=compact" alt="Top Languages Used" width="420px" />
-    </a>
-    <a href="https://github.com/Devansu-Yadav">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Devansu-Yadav&bg_color=1c1917&color=ffffff&line=008FF5&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="width: 994px;border-radius: 5px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&layout=compact" alt="Top Languages Used" />
     </a>
 </p>
+
+<a href="https://github.com/Devansu-Yadav">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Devansu-Yadav&bg_color=1c1917&color=ffffff&line=008FF5&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="width: 994px;border-radius: 5px;" />
+</a>
