@@ -13,7 +13,7 @@ Apart from Tech, I also love contributing to Student Tech communities, helping s
 
 - ✈️ You can reach out to me on **devansuyadav@gmail.com** or **<a href="https://twitter.com/DevanshYtweets">@DevanshYtweets</a>**
 
-- 💼 Resume: [Link to my Resume](https://devansuyadav.live/assets/Devansu_Yadav_Resume.pdf).
+- 💼 Resume: [Link to my Resume](https://devansuyadav.live/assets/Devansu_Yadav_Resume.pdf) (\*\*Actively looking for **SWE Internship opportunities**\*\*)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
