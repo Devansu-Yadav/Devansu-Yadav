@@ -1,74 +1,60 @@
-<p align="center">
-<img src="img/My_Image.png" width="150" height="150"/>
-</p>
+<p align="center"><a href="https://devansuyadav.live/"><img width="80%" alt="About Devansu Yadav" src="img/banner.png" /></a></p>
 
-<h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Devansu Yadav</h1>
-<h2 align="center">♥ building Tech | Hackathon geek👨‍💻 | Passionate about Open Source😍</h2>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
+<h2 align="center">Hey <img src="img/Hi.gif" width="29px" height="29px">, I am Devansu Yadav!&nbsp;<a href="https://twitter.com/DevanshYtweets" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/DevanshYtweets?logo=twitter&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px"
+/></a><a href="https://github.com/Devansu-Yadav" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Devansu-Yadav?logo=github&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px" /></a></h2>
 
+I'm Devansu, a junior year CS Engineering Undergrad from India. I love building Full-Stack applications and I absolutely 💙 contributing to Open Source projects. My recent major OSS contribution - [**Azure Static Web Apps CLI**](https://github.com/Azure/static-web-apps-cli/pull/453). I'm a passionate self-learner, who loves exploring Technologies and building projects👨‍💻 and is looking to solve real-world problems using the the power of Technology!⚡. I have worked previously as a Software Engineer Intern at [KonfHub Technologies](https://www.linkedin.com/company/konfhub/). 
 
-## 🧐 About
+Apart from Tech, I also love contributing to Student Tech communities, helping students get involved in Tech communities, exploring their passion and I'm an active part of the [**Microsoft Learn Student Ambassadors**](https://studentambassadors.microsoft.com/) community as a [**Gold MLSA**](https://studentambassadors.microsoft.com/en-US/profile/101972). I also recently spoke at the [**Microsoft Reactor Student Developer Day**](https://youtu.be/1N3bcTa3QHI) event by **Microsoft Reactor Bangalore**.
 
-- 🌱 I’m currently learning **Web development with JS and Java**☕
+- 😄 Pronouns: He/Him
 
-- 📫 How to reach me **devansuyadav@gmail.com** or Dm me on **<a href="https://twitter.com/DevanshYtweets">Twitter</a>**
+- ✈️ You can reach out to me on **devansuyadav@gmail.com** or **<a href="https://twitter.com/DevanshYtweets">@DevanshYtweets</a>**
 
-- 🙌Active in Communities: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/101972)](https://studentambassadors.microsoft.com/en-US/profile/101972)
-- 🔭 I am currently contributing to [Checkstyle](https://github.com/checkstyle/checkstyle), building SATARK(coming soon😉), writing Tech Blogs on <a href = "https://medium.com/@devansuyadav">Medium</a> and exploring <a href="https://azure.microsoft.com/en-in/">Azure🚀</a>  
-- 👀 Things I know: <i> Java, Python, JS, Azure, C, C++, Front-End, Nodejs, Git, AWS </i>
-- 🎓 Certifications: <b>Microsoft Azure: AZ 900 Certified</b>✨ 
-- 👐 I'm looking to: grab opportunities✨🔥 
-- 😍 I ❤️ <i>reading Astronomy Books, 💫Star-gazing, watching Football⚽</i>
-- 😄 Pronouns: He/Him 
-- 🌙 Fun fact: NASA's Perseverance Rover carries my name😁(👽 could know about me🤣)   
-<br><br>
+- 💼 Resume: [Link to my Resume](https://devansuyadav.live/assets/Devansu_Yadav_Resume.pdf).
 
-<hr \>
-
-## Checkout my Portfolio <a href="https://devansuyadav.live/">here</a>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/devansu-yadav/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="30" /></a>&nbsp
-  <a href="https://twitter.com/DevanshYtweets">
-    <img src="img/twitter.png" alt="Twitter" width="30" height="30"/>
-  </a>&nbsp
-<a href="https://www.facebook.com/devansu.yadav.5" target="blank"><img align="center" src="img/facebook.png" alt="devansu.yadav.5" height="30" width="30" /></a>&nbsp
-<a href="https://www.instagram.com/_devansh_609/" target="blank"><img align="center" src="img/instagram.png" alt="_devansh_609" height="30" width="30" /></a>
-<a href="https://medium.com/@devansuyadav" target="blank"><img align="center" src="img/medium.png" alt="devansuyadav" height="30" width="30" /></a>&nbsp
-
+<p align="center">
+<a href="https://www.github.com/Devansu-Yadav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://thecodingcookbook.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/devansu-yadav/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://medium.com/@devansuyadav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<a href="https://devansuyadav.live" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/DevanshYtweets" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://stackoverflow.com/users/13589313/devansu-yadav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
+### Technologies and Tools I have worked with 🛠️:
 
-<hr \>
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/react-colored.svg" alt="React" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/redux-colored.svg" alt="Redux" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/express-colored.svg" alt="Express" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" alt="Nodejs" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" alt="Java" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" alt="Python" width="32" height="32" />
+    <img src="https://img.icons8.com/ios-glyphs/30/undefined/github.png" alt="Github" width="32" height="32" />
+    <img src="img/jest-icon.svg" alt="Jest" width="32" height="32" />
+    <img src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit" width="32" height="32" />
+    <img src="img/Azure-Cosmos-DB.svg" alt="Azure Cosmos DB" width="32" height="32" />
+    <img src="https://img.icons8.com/fluency/48/undefined/azure-1.png" alt="Azure" width="32" height="32" />
+    <img src="https://img.icons8.com/color/48/undefined/amazon-web-services.png" alt="AWS" width="32" height="32" />
+</p>
 
-## Languages and Tools
+### My Github Stats 
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-[![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-[![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<!-- <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="30"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" height="30"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="30"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/> -->
-
-
-### Languages I have worked with -
-
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- 
-![Devansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Devansu-Yadav/count.svg"/>
- </p>
-
-<h4 align="center">Show some ❤️ by starring ⭐ some of the repositories!</h4>
+<p align="left">
+    <a href="https://github.com/Devansu-Yadav">
+        <img src="https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&hide=&count_private=true&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true" width="420px" />
+    </a>
+    <a href="https://github.com/Devansu-Yadav">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&layout=compact" alt="Top Languages Used" width="420px" />
+    </a>
+    <a href="https://github.com/Devansu-Yadav">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Devansu-Yadav&bg_color=1c1917&color=ffffff&line=008FF5&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="width: 994px;border-radius: 5px;" />
+    </a>
+</p>
