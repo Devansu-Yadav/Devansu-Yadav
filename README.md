@@ -57,5 +57,5 @@ Apart from Tech, I also love contributing to Student Tech communities, helping s
 </p>
 
 <a href="https://github.com/Devansu-Yadav">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Devansu-Yadav&bg_color=1c1917&color=ffffff&line=008FF5&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="width: 994px;border-radius: 5px;" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Devansu-Yadav&bg_color=1c1917&color=ffffff&line=008FF5&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Github%20Contributions%20Graph" alt="GitHub Commits Graph" style="width: 994px;border-radius: 5px;" />
 </a>
