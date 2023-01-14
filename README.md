@@ -49,10 +49,10 @@ Apart from Tech, I also love contributing to Student Tech communities, helping s
 
 <p align="left">
     <a href="https://github.com/Devansu-Yadav">
-        <img src="https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&hide=&count_private=true&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&show_icons=true&include_all_commits=true" />
+        <img src="https://github-readme-stats-devansu-yadav.vercel.app/api?username=Devansu-Yadav&show_icons=true&hide=&count_private=true&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&show_icons=true&include_all_commits=true" />
     </a>
     <a href="https://github.com/Devansu-Yadav">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&layout=compact" alt="Top Languages Used" />
+        <img src="https://github-readme-stats-devansu-yadav.vercel.app/api/top-langs/?username=Devansu-Yadav&title_color=008FF5&text_color=ffffff&icon_color=008FF5&bg_color=1c1917&layout=compact" alt="Top Languages Used" />
     </a>
 </p>
 
