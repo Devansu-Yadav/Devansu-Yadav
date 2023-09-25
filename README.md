@@ -1,12 +1,13 @@
 <p align="center"><a href="https://devansuyadav.live/"><img width="100%" alt="About Devansu Yadav" src="img/banner.png" /></a></p>
 
-<h1 align="left">Hey, I am Devansu Yadav <img src="img/Hi.gif" width="29px" height="29px">&nbsp;</h1>
+<h1 align="left">Hey, I am Devansu Yadav <img src="img/Hi.gif" width="29px" height="29px" />&nbsp;
 <a href="https://twitter.com/DevanshYtweets" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DevanshYtweets?logo=twitter&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px"
 /></a><a href="https://github.com/Devansu-Yadav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Devansu-Yadav?logo=github&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px" /></a>
+</h1>
 
-I'm a first year Master of Computing grad student studying at the Australian National University in Canberra, Australia. I love building Full-Stack applications and I absolutely 💙 contributing to Open Source projects. Some of my recent major OSS contributions - [Docusaurus](https://github.com/facebook/docusaurus/pull/8384), [Gitpod](https://github.com/gitpod-io/gitpod/pulls?q=is%3Apr+author%3ADevansu-Yadav+is%3Aclosed), [**Azure Static Web Apps CLI**](https://github.com/Azure/static-web-apps-cli/pull/453). I'm a passionate self-learner, who loves exploring Technologies and building projects👨‍💻 and is looking to solve real-world problems using the the power of Technology!⚡. I have worked previously as a Software Engineer Intern at [KonfHub Technologies](https://www.linkedin.com/company/konfhub/). 
+I'm a first year Master of Computing grad student studying at the Australian National University in Canberra, Australia. I love building Full-Stack applications and I absolutely 💙 contributing to Open Source projects. Some of my recent major OSS contributions - [**Docusaurus**](https://github.com/facebook/docusaurus/pull/8384), [**Gitpod**](https://github.com/gitpod-io/gitpod/pulls?q=is%3Apr+author%3ADevansu-Yadav+is%3Aclosed), [**Azure Static Web Apps CLI**](https://github.com/Azure/static-web-apps-cli/pull/453). I'm a passionate self-learner, who loves exploring Technologies and building projects👨‍💻 and is looking to solve real-world problems using the the power of Technology!⚡. I have worked previously as a Software Engineer Intern at [KonfHub Technologies](https://www.linkedin.com/company/konfhub/). 
 
 Apart from tech, I love contributing to Student tech communities, helping students get involved in tech communities, exploring their passion and I'm an active part of the [**Microsoft Learn Student Ambassadors**](https://studentambassadors.microsoft.com/) community as a [**Gold MLSA**](https://studentambassadors.microsoft.com/en-US/profile/101972).
 
