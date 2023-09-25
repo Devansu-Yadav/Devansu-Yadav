@@ -1,9 +1,8 @@
 <p align="center"><a href="https://devansuyadav.live/"><img width="100%" alt="About Devansu Yadav" src="img/banner.png" /></a></p>
 
-<h1 align="left">Hey, I am Devansu Yadav <img src="img/Hi.gif" width="29px" height="29px" />&nbsp;
-<a href="https://twitter.com/DevanshYtweets" target="_blank" rel="noreferrer"><img
+<h1 align="left">Hey, I am Devansu Yadav 👋&nbsp;<a href="https://twitter.com/DevanshYtweets" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DevanshYtweets?logo=twitter&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px"
-/></a><a href="https://github.com/Devansu-Yadav" target="_blank" rel="noreferrer"><img
+/></a> <a href="https://github.com/Devansu-Yadav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Devansu-Yadav?logo=github&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px" /></a>
 </h1>
 
